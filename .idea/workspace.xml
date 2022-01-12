@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6325edd-8892-42cb-be29-67ba0b9ad58d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21zYCc7Dy7aQTR36vN5kBhctVFF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../back" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\edu" />
+      <recent name="C:\OpenServer\domains\edu\dbquery" />
+      <recent name="C:\OpenServer\domains\edu\room" />
+      <recent name="C:\OpenServer\domains\edu\teacher" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6325edd-8892-42cb-be29-67ba0b9ad58d" name="Changes" comment="" />
+      <created>1638945257461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638945257461</updated>
+      <workItem from="1638945258766" duration="30477000" />
+      <workItem from="1639068703542" duration="709000" />
+      <workItem from="1639074235363" duration="171000" />
+      <workItem from="1639074702050" duration="13415000" />
+      <workItem from="1639144547995" duration="8517000" />
+      <workItem from="1639310676469" duration="10572000" />
+      <workItem from="1639403972397" duration="2845000" />
+      <workItem from="1639578073133" duration="666000" />
+      <workItem from="1639750797722" duration="340000" />
+      <workItem from="1639751171440" duration="2923000" />
+      <workItem from="1640008810443" duration="76000" />
+      <workItem from="1640008996617" duration="3891000" />
+      <workItem from="1640099035563" duration="1656000" />
+      <workItem from="1641826141650" duration="1826000" />
+      <workItem from="1641993688380" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
